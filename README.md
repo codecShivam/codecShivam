@@ -25,12 +25,12 @@ Welcome here
 - Email: sy654906@gmail.com
 - Linkdin: https://www.linkedin.com/in/shivam-yadav-513005257/
 <br>
-<h3> 📊 Some stats: </h3>
+<!--<h3> 📊 Some stats: </h3>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shivam-yadav82&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivam-yadav82&show_icons=true&locale=en&layout=compact" alt="Sam" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivam-yadav82&" alt="Sam" />
 <br>
-
+-->
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="100%"/>
 
 
@@ -40,9 +40,6 @@ Welcome here
 
 ![](https://komarev.com/ghpvc/?username=shivam-yadav82&style=flat-square)
 
-
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
- -->
 
 
 <div align="center">
@@ -61,7 +58,7 @@ Welcome here
 
 
 
-<!-- ## 🧰 My Toolbox:
+ <!--## 🧰 My Toolbox:
 ![intellij%20idea%20ultimate](https://img.shields.io/badge/-intellij%20idea%20ultimate-black?logo=IntelliJ%20IDEA&logoColor=dc14d0&style=for-the-badge)
 ![pycharm%20professional](https://img.shields.io/badge/-pycharm%20professional-ffc900?logo=PyCharm&logoColor=348a13&style=for-the-badge)
 ![%20atom](https://img.shields.io/badge/-%20atom-f6a376?logo=Atom&logoColor=black&style=for-the-badge)
@@ -72,16 +69,17 @@ Welcome here
 ![Duckduckgo](https://img.shields.io/badge/-Duckduckgo-orange?logo=DuckDuckGo&logoColor=black&style=for-the-badge)
 ![](https://img.shields.io/badge/--f65804?style=for-the-badge&logo=Ubuntu&logoColor=white)
 ![](https://img.shields.io/badge/--purple?logo=Firefox&style=for-the-badge)
- 
+ -->
 ## 📫 Say hello: 
-<a href="https://www.linkedin.com/in/akshatcoder/">
+<a href="https://www.linkedin.com/in/shivam-yadav-513005257/">
 <img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-f2f478?logo=LinkedIn&logoColor=2a6f96&style=for-the-badge">
  </a>
+ <!--
  <a href="https://twitter.com/akshatwts">
 <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-blue?logo=Twitter&logoColor=white&style=for-the-badge"> </a>
 <a href = "https://g.dev/akshatcoder"><img alt="google%20developer%20" src="https://img.shields.io/badge/-google%20developer%20-f35902?logo=Google%20Search%20Console&logoColor=white&style=for-the-badge">
-</a>
--->
+</a> -->
+
 
 
 
