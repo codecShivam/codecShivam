@@ -17,7 +17,7 @@ Welcome here
 --> I love solving errors.
 
 ### 💻 Skill:<br>
-[![My Skills](https://skillicons.dev/icons?i=c,html,css,tailwind,bootstrap)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=c,html,css,tailwind,linux,bootstrap)](https://skillicons.dev) 
 <br>
 <br>
 ### 📫 How to reach me: 
