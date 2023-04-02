@@ -1,11 +1,11 @@
 # Hi there 👋🏻 I am Shivam Yadav! 
 A passionate developer from INDIA<br>
 Welcome here  
-![visitors](https://visitor-badge.glitch.me/badge?page_id=shivam-yadav82)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=codecShivam)
 <br>
-<img src="https://github.com/shivam-yadav82/shivam-yadav82/blob/main/May-the-Open-Source-be-with-you-768x391.jpg" /> <br>
+<img src="https://github.com/codecShivam/codecShivam/blob/main/May-the-Open-Source-be-with-you-768x391.jpg" /> <br>
 <!--
-**shivam-yadav82/shivam-yadav82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**codecShivam/codecShivam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ### 💙 _Code Elegantly_ 💙
 <!-- - 🔭 I’m currently working on .. -->
@@ -26,9 +26,9 @@ Welcome here
 - Linkdin: https://www.linkedin.com/in/shivam-yadav-513005257/
 <br>
 <h3> 📊 Some stats: </h3>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shivam-yadav82&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivam-yadav82&show_icons=true&locale=en&layout=compact" alt="Sam" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivam-yadav82&" alt="Sam" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=codecShivam&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=codecShivam&show_icons=true&locale=en&layout=compact" alt="Sam" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=codecShivam&" alt="Sam" />
 <br>
 
 
