@@ -9,7 +9,6 @@ Welcome here
 -->
 ### 💙 _Code Elegantly_ 💙
 <!-- - 🔭 I’m currently working on .. -->
-- 🌱 I’m currently learning Javascript and Tailwind.
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 - 😄 Pronouns: He/Him/His
@@ -17,7 +16,7 @@ Welcome here
 --> I love solving errors.
 
 ### 💻 Skill:<br>
-[![My Skills](https://skillicons.dev/icons?i=c,html,css,tailwind,git,bootstrap)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=c,html,css,tailwind,javascript,git,bootstrap)](https://skillicons.dev) 
 <br>
 <br>
 ### 📫 How to reach me: 
