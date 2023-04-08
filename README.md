@@ -21,13 +21,13 @@ Welcome here
 <br>
 ### 📫 How to reach me: 
 - @Discord: ShivamYadav#5337
-- Email: sy654906@gmail.com
+- Email: codecshivam@gmail.com
 - Linkdin: https://www.linkedin.com/in/shivam-yadav-513005257/
 <br>
 <h3> 📊 Some stats: </h3>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codecShivam&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=codecShivam&show_icons=true&locale=en&layout=compact" alt="Sam" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=codecShivam&" alt="Sam" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=codecShivam&show_icons=true&locale=en&layout=compact" alt="shivam" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=codecShivam&" alt="shivam" />
 <br>
 
 
