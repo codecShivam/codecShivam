@@ -3,10 +3,13 @@ A passionate developer from INDIA<br>
 Welcome here  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codecShivam&label=Profile%20views&color=0e75b6&style=flat" alt="codecShivam" /> </p>
 <br>
+
 <img src="https://github.com/codecShivam/codecShivam/blob/main/May-the-Open-Source-be-with-you-768x391.jpg" /> <br>
+
 <!--
 **codecShivam/codecShivam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+
 ### 💙 _Code Elegantly_ 💙
 <!-- - 🔭 I’m currently working on .. -->
 <!-- - 👯 I’m looking to collaborate on ... -->
