@@ -1,7 +1,7 @@
 # Hi there 👋🏻 I am Shivam Yadav! 
 A passionate developer from INDIA<br>
 Welcome here  
-![visitors](https://visitor-badge.glitch.me/badge?page_id=codecShivam)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codecShivam&label=Profile%20views&color=0e75b6&style=flat" alt="codecShivam" /> </p>
 <br>
 <img src="https://github.com/codecShivam/codecShivam/blob/main/May-the-Open-Source-be-with-you-768x391.jpg" /> <br>
 <!--
@@ -29,6 +29,3 @@ Welcome here
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codecShivam&show_icons=true&locale=en&layout=compact" alt="shivam" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=codecShivam&" alt="shivam" />
 <br>
-
-
-
