@@ -19,7 +19,7 @@ Welcome here
 - ⚡ Fun fact: It’s all 0’s and 1’s
 --> I love solving errors.
 
-### 💻 Skill:<br>
+### 💻 Stack I Use:<br>
 [![My Skills](https://skillicons.dev/icons?i=c,html,css,tailwind,javascript,react,git,bootstrap)](https://skillicons.dev) 
 <br>
 <br>
@@ -27,6 +27,7 @@ Welcome here
 - @Discord: ShivamYadav#5337
 - Email: codecshivam@gmail.com
 - Linkdin: https://www.linkedin.com/in/shivam-yadav-513005257/
+- Twitter: https://twitter.com/codecShivam/
 <br>
 <h3> 📊 Some stats: </h3>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codecShivam&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
