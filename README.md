@@ -1,7 +1,8 @@
 # Hi there 👋🏻 I am Shivam Yadav! 
 A passionate developer from INDIA<br>
 Welcome here  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codecShivam&label=Profile%20views&color=0e75b6&style=flat" alt="codecShivam" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=codecShivam&label=Profile%20views&color=0e75b6&style=flat" alt="codecShivam" /> </p>
 <br>
 
 <img src="https://github.com/codecShivam/codecShivam/blob/ae505263bf417e5c2591d17b5b860369247d5641/May-the-Open-Source-be-with-you-768x391.jpg"  alt="codecshivam" />
