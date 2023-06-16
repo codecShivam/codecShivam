@@ -21,7 +21,7 @@ Welcome here
 --> I love solving errors.
 
 ### 💻 Stack I Use:<br>
-[![My Skills](https://skillicons.dev/icons?i=c,html,css,tailwind,javascript,react,git,bootstrap)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=c,html,css,tailwind,vite,javascript,react,git,bootstrap)](https://skillicons.dev) 
 <br>
 <br>
 ### 📫 How to reach me: 
