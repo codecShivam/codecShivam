@@ -27,7 +27,7 @@ Welcome here
 ### 📫 How to reach me: 
 - @Discord: ShivamYadav#5337
 - Email: codecshivam@gmail.com
-- Linkdin: https://www.linkedin.com/in/shivam-yadav-513005257/
+- Linkdin: https://www.linkedin.com/in/codecShivam/
 - Twitter: https://twitter.com/codecShivam/
 <br>
 <h3> 📊 Some stats: </h3>
