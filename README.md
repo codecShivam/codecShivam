@@ -2,7 +2,7 @@
 
 <h1>Welcome to my corner of Digital World..</h1> 
 
-<img src = 'https://github.com/codecShivam/codecShivam/blob/main/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
+<img src = 'https://github.com/codecShivam/codecShivam/blob/main/matrix.gif' height='520px' alt = 'Awesome Matrix Code' align='right'/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-codedshivam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/codecshivam)](https://www.linkedin.com/in/codecshivam) [![Twitter Badge](https://img.shields.io/badge/-codedshivam-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/codecShivam/)](https://www.linkedin.com/in/codecshivam) [![Gmail Badge](https://img.shields.io/badge/-codecshivam@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:codecshivam@gmail.com)](mailto:codecshivam@gmail.com)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codecShivam" alt="codecshivam" /> </p>
