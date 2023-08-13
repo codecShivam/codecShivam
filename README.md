@@ -1,37 +1,55 @@
-# Hi there 👋🏻 I am Shivam Yadav! 
-A passionate developer from INDIA<br>
-Welcome here  
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=codecShivam&label=Profile%20views&color=0e75b6&style=flat" alt="codecShivam" /> </p>
-<br>
+## Hey, [Shivam here!](https://codecshivam.netlify.app/)  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
-<img src="https://github.com/codecShivam/codecShivam/blob/ae505263bf417e5c2591d17b5b860369247d5641/May-the-Open-Source-be-with-you-768x391.jpg"  alt="codecshivam" />
-<br>
+<h1>Welcome to my corner of Digital World..</h1> 
 
-<!--
-**codecShivam/codecShivam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
-### 💙 _Code Elegantly_ 💙
-<!-- - 🔭 I’m currently working on .. -->
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
-- 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: It’s all 0’s and 1’s
---> I love solving errors.
+[![Linkedin Badge](https://img.shields.io/badge/-codedshivam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haany-ali)](https://www.linkedin.com/in/codecshivam) [![Gmail Badge](https://img.shields.io/badge/-codecshivam@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:codecshivam@gmail.com)](mailto:codecshivam@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-The%20Broke%20Coder-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codecShivam" alt="codecshivam" /> </p>
+
+<div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
+
+## :computer: Technologies I Love
+* Frontend Development
+* DSA
+* Web Design
+
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=codecShivam&layout=compact">
 
 ### 💻 Stack I Use:<br>
 [![My Skills](https://skillicons.dev/icons?i=c,html,css,tailwind,vite,javascript,react,git,bootstrap,typescript,java)](https://skillicons.dev) 
 <br>
-<br>
-### 📫 How to reach me: 
-- @Discord: codecshivam
-- Email: codecshivam@gmail.com
-- Linkdin: https://www.linkedin.com/in/codecShivam/
-- Twitter: https://twitter.com/codecShivam/
-<br>
-<h3> 📊 Some stats: </h3>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=codecShivam&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=codecShivam&show_icons=true&locale=en&layout=compact" alt="shivam" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=codecShivam&" alt="shivam" />
-<br>
+
+## Who am I?
+ ```python
+ class WhoAmI:
+ 	user = 'Shivam Yadav'
+		current_work = 'Writing code'
+		hobbies = [
+				'Watching Anime',
+				'Reading Sci-Fi Novels'
+				'Being up all Night chasing that ONE BUG...'
+			]
+	
+	def getCity():
+		return Ghaziabad()
+	
+	def Ambitions():
+		LearnTypescript()
+		CreateProjects()
+		FinishMyAnimeWatchList()
+		# Assume 10 more awesome ambitions here  ;)
+	
+ ```
+
+## Current Works
+* Diving into world of Web Developers !!
+* I'm currently working on 🔭 building **Web Applications** and working up on polishing my skills 🌱 in **Competitive Programming**.
+
+## Other Stuff
+- :octocat: [My Resume](https://drive.google.com/file/d/13eGNa5rewHdGSvlscJN6DZ9V8bovc-dx/view?usp=share_link)
+- If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!!:grimacing: )
+
+![Shivam's github stats](https://github-readme-stats.vercel.app/api?username=codecShivam&show_icons=true&hide=[%22issues%22])
+ 
+ 
