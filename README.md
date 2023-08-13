@@ -21,11 +21,11 @@ Welcome here
 --> I love solving errors.
 
 ### 💻 Stack I Use:<br>
-[![My Skills](https://skillicons.dev/icons?i=c,html,css,tailwind,vite,javascript,react,git,bootstrap,typescript)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=c,html,css,tailwind,vite,javascript,react,git,bootstrap,typescript,java)](https://skillicons.dev) 
 <br>
 <br>
 ### 📫 How to reach me: 
-- @Discord: ShivamYadav#5337
+- @Discord: codecshivam
 - Email: codecshivam@gmail.com
 - Linkdin: https://www.linkedin.com/in/codecShivam/
 - Twitter: https://twitter.com/codecShivam/
