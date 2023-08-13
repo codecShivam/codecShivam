@@ -4,7 +4,7 @@
 
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-codedshivam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haany-ali)](https://www.linkedin.com/in/codecshivam) [![Gmail Badge](https://img.shields.io/badge/-codecshivam@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:codecshivam@gmail.com)](mailto:codecshivam@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-codedshivam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/codecshivam)](https://www.linkedin.com/in/codecshivam) [![Twitter Badge](https://img.shields.io/badge/-codedshivam-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/codecShivam/)](https://www.linkedin.com/in/codecshivam) [![Gmail Badge](https://img.shields.io/badge/-codecshivam@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:codecshivam@gmail.com)](mailto:codecshivam@gmail.com)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codecShivam" alt="codecshivam" /> </p>
 
 <div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
