@@ -26,9 +26,9 @@
  	user = 'Shivam Yadav'
 		current_work = 'Writing code'
 		hobbies = [
-				'Watching Anime',
-				'Reading Sci-Fi Novels'
 				'Being up all Night chasing that ONE BUG...'
+				'Reading Sci-Fi Novels'
+				'Watching Anime',
 			]
 	
 	def getCity():
@@ -37,7 +37,6 @@
 	def Ambitions():
 		LearnTypescript()
 		CreateProjects()
-		FinishMyAnimeWatchList()
 		# Assume 10 more awesome ambitions here  ;)
 	
  ```
