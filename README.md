@@ -31,11 +31,10 @@
 			]
 	
 	def getCity():
-		return Ghaziabad()
+		return Delhi()
 	
 	def Ambitions():
-		LearnTypescript()
-		CreateProjects()
+		CreateCoolProjects()
 		# Assume 10 more awesome ambitions here  ;)
 	
  ```
