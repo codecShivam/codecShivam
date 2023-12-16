@@ -17,7 +17,7 @@
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=codecShivam&layout=compact">
 
 ### 💻 Stack I Use:<br>
-[![My Skills](https://skillicons.dev/icons?i=c,html,css,tailwind,vite,javascript,react,git,bootstrap,typescript,java,typescript,nextjs,postman,figma,astro,firebase,materialui,threejs,)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,tailwind,vite,javascript,react,git,bootstrap,typescript,java,typescript,nextjs,postman,figma,astro,firebase,materialui,threejs)](https://skillicons.dev) 
 <br>
 
 ## Who am I?
