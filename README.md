@@ -41,7 +41,7 @@
 
 ## Current Works
 * Diving into world of Web Developers !!
-* I'm currently working on 🔭 building **Web Applications** and working up on polishing my skills 🌱 in **Competitive Programming**.
+* I'm currently working on 🔭 building **Web Applications** and working up on polishing my skills 🌱 in **DSA**.
 
 ## Other Stuff
 - :octocat: [My Resume](https://drive.google.com/file/d/13eGNa5rewHdGSvlscJN6DZ9V8bovc-dx/view?usp=share_link)
